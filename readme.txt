@@ -1,3 +1,2 @@
-This is a GPL licensed C++ class library wrapping the berkeley sockets C API, and therefore works on most unixes and also win32. The library is in use in a number of real world applications, both commercial and open source.
-
-Features include, but are not limited to, SSL support, IPv6 support, tcp and udp sockets, sctp sockets, http protocol, highly customizable error handling. Testing has been done on Linux and Windows 2000, and to some part on Solaris and Mac OS X.
+Git is a version control system.
+Git is free software.
